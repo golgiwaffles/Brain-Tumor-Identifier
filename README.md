@@ -50,7 +50,7 @@ The network is finally compiled using the loss function **binary_crossentropy** 
 Here is a diagrammatic representation of the Neural Network Model:
 
 <div align="center">
-  <img src = "https://github.com/golgiwaffles/Chess-Piece-Classifier/blob/main/Chessmodel.h5.png" width = "137px" height = "1396px" />
+  <img src = "[https://github.com/golgiwaffles/Chess-Piece-Classifier/blob/main/Chessmodel.h5.png](https://github.com/golgiwaffles/Brain-Tumor-Identifier/blob/main/brain_model.h5.png)" width = "137px" height = "1396px" />
 </div>
 
 #### Output
