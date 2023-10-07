@@ -1,4 +1,4 @@
-# Chess Piece Classifier
+# Brain Tumor Identifier
 A neural network-based classifier designed to discern the presence or absence of a brain tumor in MRI scans.
 
 ## Programming Languages/Libraries/Frameworks
@@ -25,7 +25,7 @@ Link:
 
 ## Project Description
 
-This project in essence, uses a Convolutional Neural Network in order to classify images of chess pieces to their respective labelS. The classifier is enabled to detect whether a particular piece is a pawn, knight, bishop, queen or a king.
+This project in essence, uses a Convolutional Neural Network in order to identify if an MRI scan of the brain indicates the presence of a tumor or not.
 
 #### Data Splitting
 
